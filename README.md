@@ -1,7 +1,7 @@
-# 👋 Hi there! I'm Tejaswi
+# 👋 Hi there! I'm Sindhu
 
 🌟 **Welcome to my GitHub!**  
-I’m passionate about creating, collaborating, and learning new things every day. My work revolves around data analytics, engineering projects, and exploring the magic of machine learning and multimedia systems.
+I'm all about turning numbers into stories 📊✨. Coding, coffee, and cool projects—let's make data awesome together! 🚀
 
 ---
 
@@ -18,9 +18,9 @@ I’m passionate about creating, collaborating, and learning new things every da
 ---
 
 ## 📫 How to Reach Me
-- 💻 [Visit my portfolio](https://tejaswichaudhari.me/)
-- 📧 [tejschaudhari522002@gmail.com](mailto:tejschaudhari522002@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💻 [Visit my portfolio]()
+- 📧 [bommalisindhu15@gmail.com](mailto:bommalisindhu15@gmail.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/sindhu-bommali/)
 
 ---
 
